@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TK9157
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me Via Mail (rjroshandev@outlook.com
+- 📫 How to reach me Via Mail (rjroshandev@outlook.com)
